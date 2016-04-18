@@ -1,0 +1,17 @@
+img{
+  background: blue;
+  width:350px;
+  height:300px;
+  margin:100px;
+  border:20px solid red;
+  padding:50px;
+}
+body {
+  background:green;
+}
+H1{
+  font-size: 2em;
+}
+body{
+  font-size: 30 px;
+}
