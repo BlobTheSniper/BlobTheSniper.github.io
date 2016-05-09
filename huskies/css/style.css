@@ -1,17 +1,29 @@
 img{
   background: blue;
   width:350px;
-  height:300px;
-  margin:100px;
-  border:20px solid red;
+  height:600px;
+  margin:0px;
+  border:50px solid red;
   padding:50px;
 }
 body {
   background-image: url()
+
 }
-H1{
+h1{
   font-size: 2em;
+}
+h2{
+	color: #d95b07;
 }
 body{
   font-size: 30 px;
+
+
+}
+
+
+
+li{
+  color: #09ede2;
 }
